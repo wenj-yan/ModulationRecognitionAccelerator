@@ -1,0 +1,18 @@
+# for tf 
+h5py>=3.6.0
+jupyterlab>=3.2.2
+matplotlib>=3.3.4
+numpy>=1.22.2 
+setuptools>=60.9.3
+tensorflow
+# for onnx
+onnx
+onnxruntime # or onnxruntime-gpu
+# for trt
+pycuda
+tensorrt
+
+matplotlib
+scipy
+#librosa
+keyboard
